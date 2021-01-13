@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AAAA,KACE,gBAAiB,CACjB,gBAAiB,CACjB,yBAA0B,CAC3B,SAGC,YAAa,CACd,QAGC,iBAAkB","file":"main.2d9ae501.chunk.css","sourcesContent":[".App {\n  margin-top: 100px;\n  margin-left: 50vw;\n  transform: translate(-50%);\n}\n\n.columns {\n  display: flex;\n}\n\n.button {\n  margin-right: 15px;\n}\n"]}
